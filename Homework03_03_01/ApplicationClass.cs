@@ -18,7 +18,7 @@ namespace Homework03_03_01
             application.CreateRibbonTab("ПИК-Привет");
             var panel = application.CreateRibbonPanel("ПИК-Привет","Общее");
             var button = new PushButtonData(
-                "Hello",
+                "Hello!",
                 "Привет",
                 "C:\\Users\\ovsiannikovoa\\Software Development Kit\\Samples\\AllViews\\CS\\bin\\Debug\\AllViews.dll",
                 "Revit.SDK.Samples.AllViews.CS.Command"
